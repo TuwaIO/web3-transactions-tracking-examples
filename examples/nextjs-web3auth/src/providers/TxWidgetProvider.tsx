@@ -1,7 +1,7 @@
 'use client';
 
-import { useInitializeTransactionsPool } from '@tuwa/evm-transactions-tracking';
-import { TransactionsWidget } from '@tuwa/transactions-tracking-ui/dist/providers';
+import { useInitializeTransactionsPool } from '@tuwaio/evm-transactions-tracking';
+import { TransactionsWidget } from '@tuwaio/transactions-tracking-ui/dist/providers';
 import { useAccount, useConfig } from 'wagmi';
 
 import { appChains } from '@/constants';

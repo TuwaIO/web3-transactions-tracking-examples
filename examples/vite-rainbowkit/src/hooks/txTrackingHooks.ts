@@ -1,5 +1,5 @@
-import { createTxTrackingStore } from '@tuwa/evm-transactions-tracking';
-import { createBoundedUseStore } from '@tuwa/web3-transactions-tracking-core';
+import { createTxTrackingStore } from '@tuwaio/evm-transactions-tracking';
+import { createBoundedUseStore } from '@tuwaio/web3-transactions-tracking-core';
 
 import { appChains } from '../configs/wagmiConfig';
 import { onSucceedCallbacks, TransactionUnion } from '../transactions/onSucceedCallbacks';

@@ -2,8 +2,8 @@
 
 'use client';
 
-import { createViemClient } from '@tuwa/evm-transactions-tracking';
-import { TxActionButton } from '@tuwa/transactions-tracking-ui/dist';
+import { createViemClient } from '@tuwaio/evm-transactions-tracking';
+import { TxActionButton } from '@tuwaio/transactions-tracking-ui/dist';
 import { ReactNode, useEffect, useState } from 'react';
 import { Client } from 'viem';
 import { readContract } from 'viem/actions';

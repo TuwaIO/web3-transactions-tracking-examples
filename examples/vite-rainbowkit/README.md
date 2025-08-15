@@ -64,9 +64,9 @@ src/
 - And other EVM-compatible chains
 
 ## 📚 TUWA Packages Used
-- - Core tracking logic `@tuwa/web3-transactions-tracking-core`
-- - EVM chain support `@tuwa/evm-transactions-tracking`
-- - Pre-built UI components `@tuwa/transactions-tracking-ui`
+- - Core tracking logic `@tuwaio/web3-transactions-tracking-core`
+- - EVM chain support `@tuwaio/evm-transactions-tracking`
+- - Pre-built UI components `@tuwaio/transactions-tracking-ui`
 
 ## ⚡ Prerequisites
 Make sure you have the following installed:
