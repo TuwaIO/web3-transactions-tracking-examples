@@ -3,14 +3,14 @@
 Ready-to-use examples demonstrating how to integrate **TUWA Web3 Transaction Tracking Suite** into different frameworks and setups.
 
 ## 🚀 Available Examples
-| Framework                                        | Description                                                                   | Status                 |
-|--------------------------------------------------|-------------------------------------------------------------------------------|------------------------|
-| **[Next.js + RainbowKit](./nextjs-rainbowkit/)** | Full-featured Next.js App Directory example with RainbowKit wallet connection | ✅ Ready                |
-| **[Vite + RainbowKit](./vite-rainbowkit/)**      | Lightweight Vite React app with RainbowKit integration                        | ✅ Ready                |
-| **[Next.js + ConnectKit](./nextjs-connectkit/)** | Next.js example using ConnectKit for wallet connection                        | ✅ Ready                |
-| **[Next.js + Dynamic](./nextjs-dynamic/)**       | Next.js example using Dynamic.xyz for wallet connection                       | ✅ Ready                |
-| **[Next.js + Reown AppKit](./nextjs-reown/)**    | Next.js example using Reown AppKit for wallet connection                      | ✅ Ready                |
-| **[Next.js + Web3Auth](./nextjs-web3auth/)**     | Next.js example using Web3Auth for wallet connection                          | 🚧 In proggress        |
+| Framework                                       | Description                                                                   | Status                 |
+|-------------------------------------------------|-------------------------------------------------------------------------------|------------------------|
+| **[Next.js + RainbowKit](./examples/nextjs-rainbowkit/)** | Full-featured Next.js App Directory example with RainbowKit wallet connection | ✅ Ready                |
+| **[Vite + RainbowKit](./examples/vite-rainbowkit/)**       | Lightweight Vite React app with RainbowKit integration                        | ✅ Ready                |
+| **[Next.js + ConnectKit](./examples/nextjs-connectkit/)**  | Next.js example using ConnectKit for wallet connection                        | ✅ Ready                |
+| **[Next.js + Dynamic](./examples/nextjs-dynamic/)**        | Next.js example using Dynamic.xyz for wallet connection                       | ✅ Ready                |
+| **[Next.js + Reown AppKit](./examples/nextjs-reown/)**     | Next.js example using Reown AppKit for wallet connection                      | ✅ Ready                |
+| **[Next.js + Web3Auth](./examples/nextjs-web3auth/)**      | Next.js example using Web3Auth for wallet connection                          | 🚧 In proggress        |
 
 ## 🎯 What You'll Learn
 
