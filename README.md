@@ -73,8 +73,8 @@ Found an issue or want to add a new example?
 
 ## 🆘 Need Help?
 - [GitHub Issues](https://github.com/TuwaIO/web3-transactions-tracking/issues)
-- [Documentation](https://docs.tuwa.co.ua/)
-- [API Reference](https://docs.tuwa.co.ua/apiReference/README)
+- [Documentation](https://docs.tuwa.io/)
+- [API Reference](https://docs.tuwa.io/apiReference/README)
 
 ## 🚀 Next Steps
 1. **Start with Next.js example** - Most comprehensive setup

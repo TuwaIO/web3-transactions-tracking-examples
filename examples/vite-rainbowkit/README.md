@@ -106,7 +106,7 @@ pnpm preview
 ```
 ## 📖 Documentation
 For detailed documentation and advanced usage:
-- [TUWA Documentation](https://docs.tuwa.co.ua/)
+- [TUWA Documentation](https://docs.tuwa.io/)
 - [RainbowKit Docs](https://rainbowkit.com/)
 - [Wagmi Docs](https://wagmi.sh/)
 - [Vite Docs](https://vitejs.dev/)
